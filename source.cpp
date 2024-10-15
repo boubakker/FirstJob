@@ -1,6 +1,5 @@
 #include <iostream> 
-using namespace std;
-
+#include <file>
 using namespace std ; 
 
 int main() {
